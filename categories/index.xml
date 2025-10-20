@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Categories on 王行川的抽象人生</title>
-        <link>https://burayw.github.io/heisen/categories/</link>
+        <link>https://h.buray.top/categories/</link>
         <description>Recent content in Categories on 王行川的抽象人生</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>Heisen</copyright>
-        <lastBuildDate>Thu, 09 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://burayw.github.io/heisen/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 11 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://h.buray.top/categories/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Trips</title>
-        <link>https://burayw.github.io/heisen/categories/trips/</link>
-        <pubDate>Thu, 09 Oct 2025 00:00:00 +0000</pubDate>
+        <link>https://h.buray.top/categories/trips/</link>
+        <pubDate>Sat, 11 Oct 2025 00:00:00 +0000</pubDate>
         
-        <guid>https://burayw.github.io/heisen/categories/trips/</guid>
+        <guid>https://h.buray.top/categories/trips/</guid>
         <description></description>
         </item>
         <item>
         <title>Test</title>
-        <link>https://burayw.github.io/heisen/categories/test/</link>
+        <link>https://h.buray.top/categories/test/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://burayw.github.io/heisen/categories/test/</guid>
-        <description>&lt;img src="https://burayw.github.io/heisen/categories/test/hutomo-abrianto-l2jk-uxb1BY-unsplash.jpg" alt="Featured image of post Test" /&gt;</description>
+        <guid>https://h.buray.top/categories/test/</guid>
+        <description>&lt;img src="https://h.buray.top/categories/test/hutomo-abrianto-l2jk-uxb1BY-unsplash.jpg" alt="Featured image of post Test" /&gt;</description>
         </item>
         
     </channel>

@@ -2,18 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>王行川的抽象人生</title>
-        <link>https://burayw.github.io/heisen/</link>
+        <link>https://h.buray.top/</link>
         <description>Recent content on 王行川的抽象人生</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>Heisen</copyright>
-        <lastBuildDate>Thu, 09 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://burayw.github.io/heisen/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 11 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://h.buray.top/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>newnewnew</title>
+        <link>https://h.buray.top/p/newnewnew/</link>
+        <pubDate>Sat, 11 Oct 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://h.buray.top/p/newnewnew/</guid>
+        <description></description>
+        </item>
+        <item>
         <title>Trip of Sichuan</title>
-        <link>https://burayw.github.io/heisen/p/trip-of-sichuan/</link>
+        <link>https://h.buray.top/p/trip-of-sichuan/</link>
         <pubDate>Thu, 09 Oct 2025 00:00:00 +0000</pubDate>
         
-        <guid>https://burayw.github.io/heisen/p/trip-of-sichuan/</guid>
-        <description>&lt;img src="https://burayw.github.io/images/rabbitmountain.png" alt="Featured image of post Trip of Sichuan" /&gt;&lt;h1 id=&#34;trip-of-sichuan四窜&#34;&gt;Trip of Sichuan四窜
+        <guid>https://h.buray.top/p/trip-of-sichuan/</guid>
+        <description>&lt;img src="https://h.buray.top/images/rabbitmountain.png" alt="Featured image of post Trip of Sichuan" /&gt;&lt;h1 id=&#34;trip-of-sichuan四窜&#34;&gt;Trip of Sichuan四窜
 &lt;/h1&gt;&lt;h2 id=&#34;1正文&#34;&gt;1.正文
 &lt;/h2&gt;&lt;h3 id=&#34;第一天hhhhh&#34;&gt;第一天hhhhh
 &lt;/h3&gt;&lt;p&gt;8:00A（am）芜湖！起床&lt;sup&gt;1&lt;/sup&gt;&lt;br&gt;
@@ -219,18 +227,18 @@ Tip：&lt;br&gt;
         </item>
         <item>
         <title>归档</title>
-        <link>https://burayw.github.io/heisen/archives/</link>
+        <link>https://h.buray.top/archives/</link>
         <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://burayw.github.io/heisen/archives/</guid>
+        <guid>https://h.buray.top/archives/</guid>
         <description></description>
         </item>
         <item>
         <title>关于</title>
-        <link>https://burayw.github.io/heisen/%E5%85%B3%E4%BA%8E/</link>
+        <link>https://h.buray.top/%E5%85%B3%E4%BA%8E/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://burayw.github.io/heisen/%E5%85%B3%E4%BA%8E/</guid>
+        <guid>https://h.buray.top/%E5%85%B3%E4%BA%8E/</guid>
         <description>&lt;p&gt;my dad make 这个网站，有发稿，评论等功能，暂时除我以外不能发布作品，有意见和建议可说&lt;/p&gt;
 &lt;p&gt;感谢你的观看
 网站：
@@ -242,10 +250,10 @@ Tip：&lt;br&gt;
         </item>
         <item>
         <title>链接</title>
-        <link>https://burayw.github.io/heisen/%E9%93%BE%E6%8E%A5/</link>
+        <link>https://h.buray.top/%E9%93%BE%E6%8E%A5/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://burayw.github.io/heisen/%E9%93%BE%E6%8E%A5/</guid>
+        <guid>https://h.buray.top/%E9%93%BE%E6%8E%A5/</guid>
         <description>&lt;p&gt;To use this feature, add &lt;code&gt;links&lt;/code&gt; section to frontmatter.&lt;/p&gt;
 &lt;p&gt;This page&amp;rsquo;s frontmatter:&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
@@ -277,10 +285,10 @@ Tip：&lt;br&gt;
         </item>
         <item>
         <title>搜索</title>
-        <link>https://burayw.github.io/heisen/search/</link>
+        <link>https://h.buray.top/search/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://burayw.github.io/heisen/search/</guid>
+        <guid>https://h.buray.top/search/</guid>
         <description></description>
         </item>
         

@@ -2,35 +2,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://burayw.github.io/heisen/</loc>
+    <loc>https://h.buray.top/</loc>
+    <lastmod>2025-10-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://h.buray.top/categories/</loc>
+    <lastmod>2025-10-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://h.buray.top/p/newnewnew/</loc>
+    <lastmod>2025-10-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://h.buray.top/post/</loc>
+    <lastmod>2025-10-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://h.buray.top/categories/trips/</loc>
+    <lastmod>2025-10-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://h.buray.top/p/trip-of-sichuan/</loc>
     <lastmod>2025-10-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://burayw.github.io/heisen/categories/</loc>
-    <lastmod>2025-10-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://burayw.github.io/heisen/post/</loc>
-    <lastmod>2025-10-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://burayw.github.io/heisen/p/trip-of-sichuan/</loc>
-    <lastmod>2025-10-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://burayw.github.io/heisen/categories/trips/</loc>
-    <lastmod>2025-10-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://burayw.github.io/heisen/page/</loc>
+    <loc>https://h.buray.top/page/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://burayw.github.io/heisen/archives/</loc>
+    <loc>https://h.buray.top/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://burayw.github.io/heisen/tags/</loc>
+    <loc>https://h.buray.top/tags/</loc>
   </url><url>
-    <loc>https://burayw.github.io/heisen/categories/test/</loc>
+    <loc>https://h.buray.top/categories/test/</loc>
   </url><url>
-    <loc>https://burayw.github.io/heisen/%E5%85%B3%E4%BA%8E/</loc>
+    <loc>https://h.buray.top/%E5%85%B3%E4%BA%8E/</loc>
   </url><url>
-    <loc>https://burayw.github.io/heisen/%E9%93%BE%E6%8E%A5/</loc>
+    <loc>https://h.buray.top/%E9%93%BE%E6%8E%A5/</loc>
   </url><url>
-    <loc>https://burayw.github.io/heisen/search/</loc>
+    <loc>https://h.buray.top/search/</loc>
   </url>
 </urlset>
